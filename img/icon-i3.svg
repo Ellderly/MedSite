@@ -1,0 +1,12 @@
+<svg width="55" height="55" viewBox="0 0 55 55" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="27.5" cy="27.5" r="27.5" fill="#F2F0EC"/>
+<circle cx="25" cy="6" r="4" stroke="#B6B1AD" stroke-width="2"/>
+<path d="M31 18V42C31 43.6569 29.6569 45 28 45V45C26.3431 45 25 43.6569 25 42V34" stroke="#B6B1AD" stroke-width="2" stroke-linecap="round"/>
+<path d="M25 35.5V42C25 43.6569 23.6569 45 22 45V45C20.3431 45 19 43.6569 19 42V41.5" stroke="#B6B1AD" stroke-width="2" stroke-linecap="round"/>
+<path d="M31 25V26.75C31 27.9926 32.0074 29 33.25 29V29C34.4926 29 35.5 27.9926 35.5 26.75V14.5C35.5 12.2909 33.7091 10.5 31.5 10.5H18.5C16.2909 10.5 14.5 12.2909 14.5 14.5V19" stroke="#B6B1AD" stroke-width="2" stroke-linecap="round"/>
+<circle cx="13.3008" cy="31" r="8" stroke="#B6B1AD" stroke-width="2"/>
+<circle cx="13.3008" cy="31" r="2" stroke="#B6B1AD" stroke-width="2"/>
+<path d="M18 31H15.5M19 19.5V18" stroke="#B6B1AD" stroke-width="2" stroke-linecap="round"/>
+<path d="M43.5 1.5V4.5M43.5 45V31M40 4.5H43.5M43.5 4.5V9.5M40 9.5H43.5M43.5 9.5V15M40 15H43.5M43.5 15V20.5M40 20.5H43.5M43.5 20.5V25.5M40 25.5H43.5M43.5 25.5V31M40 31H43.5" stroke="#B6B1AD" stroke-width="2" stroke-linecap="round"/>
+<circle cx="13.3008" cy="31" r="12" stroke="#B6B1AD" stroke-width="2"/>
+</svg>
